@@ -1,0 +1,46 @@
+#logo{
+    width: 20rem; /* כאן יש להגדיר את הרוחב המתאים */
+    height: auto;
+    z-index: 1;
+}
+h1{
+    display: block;
+    width: 40rem;
+    height: 20%;
+    color: rgb(81, 70, 7);
+    z-index: 2;
+    margin: 0;
+}
+.businessP{
+    width: 40rem;
+    height: 20%;
+    color: rgb(163 147 53);
+    z-index: 2;
+    margin: 0;
+    font-size: 2rem;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    padding: 20px;
+  }
+  .css-1p7a5wk-MuiButtonBase-root-MuiFab-root{
+    background-color:rgb(81, 70, 7) !important;
+  }
+  .css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+    background-color:rgb(81, 70, 7) !important;
+    color: white !important;
+  }
+  .desc{
+    background-color: black ;
+  }
+  .desc .businessP{
+  margin-left: 40%;
+  }
+
+  
+
+  
